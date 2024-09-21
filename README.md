@@ -21,43 +21,46 @@ This project is a Spam Detection System built using Python and Scikit-learn. It 
 
 💬 Text Classification: Classifies messages as either Spam or Ham (Not Spam).
 
-📈 Model Evaluation : Reports accuracy, precision, recall, and F1-score.
+📈 Model Evaluation : Reports accuracy, precision.
 
-📂 Dataset: The SMS Spam Collection dataset is used in this project. downloaded from Kaggle.
+📂 Dataset: The SMS Spam Collection dataset is used in this project. Downloaded from Kaggle(As per the given dataset).
 
    🛴 SMS messages 
   
    🛴 Spam: Unwanted or harmful messages.
    
-   🛴 Ham: Legitimate, non-spam messages.
+   🛴 Ham: non-spam messages.
 
 
 # 💻 Code Overview
 1. Data Preprocessing
-   Convert SMS text to lowercase.
-   Remove special characters.
-   Split data into training and testing sets.
-   
-3. Model Training
-   
-3. Feature Extraction
 
+    Convert SMS text to lowercase.
+   
+    Remove special characters.
+   
+    Split data into training and testing sets.
+   
+2. Feature Extraction
+   
 3. Model Training
 
 4. Model Evaluation
 
 5. Prediction Function
+
+6. User Corner - Test for random message
    
-7.  User Corner - check for random message
+   
 
 
 # 📊 Model Performance
 
 Metric	Value :
 
-Accuracy	97.67%
+Accuracy -	97.67%
 
-Precision	98%
+Precision -	98%
 
 
 # 🛠️ Technologies Used
@@ -77,7 +80,7 @@ Random Forest Classifier
 # Model 2️⃣ GUI INTERFACING 
 
 
-Include All The Specification specified other Showing Accuracy
+Include All The Specification specified other than Showing Accuracy
 Along with Gui Interface
 
 # How the Tkinter GUI Works:
@@ -105,13 +108,13 @@ Scikit-learn Documentation
 
 # 📬 Contact
 
-Ansh Singh , 23Bcs018@smvdu.ac.in
+Ansh Singh , 23bcs018@smvdu.ac.in
 
-Shivam Kumar , 23Bcs084@smvdu.ac.in
+Shivam Kumar , 23bcs084@smvdu.ac.in
 
-Vishal Kumar , 23bcs100@smvdu.ac.in
+Vishal Kharwar , 23bcs100@smvdu.ac.in
 
-Niraj Kumar , 23Bcs057@smvdu.ac.in
+Niraj Kumar , 23bcs057@smvdu.ac.in
 
 # 👨‍💻 FUTURISTIC
 
