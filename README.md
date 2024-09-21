@@ -3,6 +3,10 @@
 
 # 📧 Spam Detection System
 
+
+
+# Model 1 Predicting Accuracy
+
 🔍 Description
 This project is a Spam Detection System built using Python and Scikit-learn. It leverages a Random Forest Classifier to predict whether an incoming SMS message is spam or not based on word patterns. The system uses a TF-IDF vectorizer to convert text into numerical features and is trained on a dataset of labeled SMS messages.
 
@@ -69,6 +73,14 @@ Pandas ,
 NumPy ,
 TF-IDF Vectorizer ,
 Random Forest Classifier
+
+
+
+
+# Model - 2 GUI INTERFACING 
+
+
+Include All The Specification specified other Showing Accuracy
 
 
 # 📜 License
