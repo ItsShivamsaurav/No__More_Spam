@@ -80,6 +80,14 @@ Random Forest Classifier
 Include All The Specification specified other Showing Accuracy
 Along with Gui Interface
 
+# How the Tkinter GUI Works:
+
+Input: Users can type an SMS message into the input field.
+
+Button: Once the "Predict" button is pressed, the system will classify the message.
+
+Output: A pop-up message will show whether the message is classified as Spam or Not Spam.
+
 
 
 
