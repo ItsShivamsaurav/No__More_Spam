@@ -55,13 +55,10 @@ This project is a Spam Detection System built using Python and Scikit-learn. It 
 
 Metric	Value :
 
-Accuracy	98.5%
+Accuracy	97.67%
 
-Precision	97.8%
+Precision	98%
 
-Recall	96.9%
-
-F1-Score	97.3%
 
 # 🛠️ Technologies Used
 
